@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor 👋
 
-Tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas e estou sempre aprendendo coisas novas. Moro em São Paulo, Brasil, e trabalho na GO AHEAD IT.
+Tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas e estou sempre aprendendo coisas novas. Moro em São Paulo, Brasil, e trabalho na GO AHEAD IT no cargo de network technical.
 
 ## 🛠️ Tecnologias
 
