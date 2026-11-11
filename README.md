@@ -4,7 +4,7 @@ Tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas e estou sem
 
 ## 🛠️ Tecnologias
 
-- **Linguagens:** Java, Python, JavaScript, HTML/CSS
+- **Linguagens:** Java, Python
 - **Frameworks:** Spring
 - **Banco de dados:** MySQL
 - **Cloud:** conceitos e serviços de nuvem
