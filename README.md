@@ -16,7 +16,7 @@ Atualmente trabalho com redes, atuando como técnico de redes em:
 
 - Configuração lógica de redes TCP/IP, com endereçamento IP, sub-redes e VLANs
 - Configuração e gerenciamento de serviços de rede, como DHCP e DNS
-- Configuração lógica de roteadores e switches
+- Configuração lógica de Access point e switches
 - Diagnóstico e solução de problemas de conectividade
 - Monitoramento da rede e suporte aos usuários
 - Boas práticas de segurança lógica, como controle de acesso
