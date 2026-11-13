@@ -57,9 +57,3 @@ Atualmente trabalho com redes, atuando como técnico de redes em:
 | [pizzaria](https://github.com/vitorknoown/pizzaria) | Sistema para uma pizzaria | JavaScript |
 | [energiaexercicio](https://github.com/vitorknoown/energiaexercicio) | Exercícios sobre energia | Java |
 
-## ▪ Estatísticas do GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitorknoown&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorknoown&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
