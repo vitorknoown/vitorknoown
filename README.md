@@ -52,7 +52,7 @@ Atualmente trabalho com redes, atuando como técnico de redes em:
 
 | Projeto | Descrição | Tecnologia |
 | --- | --- | --- |
-| [AI-DLC/AWS/DAREDE]((https://github.com/vitorknoown/projetoAWSDAREDE)) | Projeto Focado em soluções | Python | Serviços AWS |
+| [AI-DLC/AWS/DAREDE](https://github.com/vitorknoown/projetoAWSDAREDE) | Projeto Focado em soluções | Python | Serviços AWS |
 | [gdp-dashboard](https://github.com/vitorknoown/gdp-dashboard) | Dashboard de dados de PIB | Python |
 | [calculadora](https://github.com/vitorknoown/calculadora) | Calculadora desenvolvida em Python | Python |
 | [pizzaria](https://github.com/vitorknoown/pizzaria) | Sistema para uma pizzaria | JavaScript |
